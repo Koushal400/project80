@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+#sorted_name{
+    display: none;
+}
+#show_submitted_name{
+    font-size: 30px;
+    text-color: black;
+}
